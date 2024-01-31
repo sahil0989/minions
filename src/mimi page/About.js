@@ -185,7 +185,7 @@ function About() {
 
                 </div>
             </div>
-            <h5 className='flex justify-center font-semibold mt-6' >Copyright @2023 by jarvis</h5>
+            <h5 className='flex justify-center mt-6 text-xs' >Copyright @2023 by jarvis</h5>
         </div>
     )
 }

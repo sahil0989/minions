@@ -160,7 +160,7 @@ function Minions() {
 
                         <img src={minions} className='mt-8 lg:mt-12' alt='' />
 
-                        <h5 className=' font-semibold mt-6' >Copyright @2023 by jarvis</h5>
+                        <h5 className=' text-xs mt-6' >Copyright @2023 by jarvis</h5>
                     </div>
 
                 </div>
